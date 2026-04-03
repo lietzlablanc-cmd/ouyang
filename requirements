@@ -1,0 +1,12 @@
+streamlit>=1.30.0
+# 下面把你用到的库全部加上（示例）
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+# 如果你用了模型/其他库，也加上：
+# torch
+# tensorflow
+# pillow
+# opencv-python
